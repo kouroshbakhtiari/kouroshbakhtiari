@@ -1,10 +1,11 @@
-::: warning
-*👋 Hi, I’m @kouroshbakhtiari*
-:::
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+# 👋 Hi, I’m @kouroshbakhtiari
+
+## Front-end Developer / Environmentalist
+## Pioneer of Car-free Tuesdays campaign
+
+
+
 
 <!---
 kouroshbakhtiari/kouroshbakhtiari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
