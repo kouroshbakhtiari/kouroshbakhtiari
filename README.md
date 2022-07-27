@@ -4,7 +4,7 @@
 ### Front-end Developer / Environmentalist
 Pioneer of Car-free Tuesdays campaign
 
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg)
 
 ##### I am a self-learner front-end developer with more than 1 year of experience.
 I know the basics and principles of front-end development and have a good command of the JavaScript language , Vue.js framework, HTML5, CSS3, Bootstrap, Git..
